@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋I'm Anh Tú</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam </h3>
+  <h3 align="center">Developer with a growth mindset, always striving to improve their skills and knowledge.</h3>
 </p> 
 
 - 🏡 I'm from Hai Duong City.
