@@ -4,11 +4,8 @@
 </p> 
 
 - 🏡 I'm from Hai Duong City.
-  
 - 🔭 I’m currently learning Information Technology.
-  
 - 📌 My goal is to become a data and artificial intelligence engineer.
-
 - 📫 How to reach me: anhtu21022004@gmail.com
 
 ## Activities:
