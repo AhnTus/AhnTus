@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋I'm Anh Tú</h2>
+<h2 align="center">Hi 👋I'm Tú</h2>
 <p align="center">
   <h3 align="center">Developer with a growth mindset, always striving to improve their skills and knowledge.</h3>
 </p> 
