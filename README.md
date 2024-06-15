@@ -3,7 +3,7 @@
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p> 
 
-- 🏡 I'm from HaiDuong City.
+- 🏡 I'm from Hai Duong City.
   
 - 🔭 I’m currently learning Information Technology.
   
