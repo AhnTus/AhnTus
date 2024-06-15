@@ -5,7 +5,7 @@
 
 - 🏡 I'm from Hai Duong City.
 - 🔭 I’m currently learning Information Technology.
-- 📌 My goal is to become a data and artificial intelligence engineer.
+- 📌 My goal is to become a Data & Artificial Intelligence Engineer.
 - 📫 How to reach me: anhtu21022004@gmail.com
 
 ## Activities:
