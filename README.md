@@ -12,7 +12,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahntus&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ahntus" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnTus&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ahntus" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=AhnTus&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="ahntus" width="100%"/>
     </td>
     <td>
