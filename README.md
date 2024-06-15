@@ -3,19 +3,10 @@
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p> 
 - 🏡 I'm from HaiDuong City 
+
 - 🔭 I’m currently learning Information Technology
+- 
 - 📌 My goal is to become a data and artificial intelligence engineer
-
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100022160624916" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/AhnTus" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-</p>
 
 ## Activities:
 <table style="width:100%;">
